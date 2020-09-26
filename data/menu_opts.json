@@ -15,6 +15,21 @@
             "ruta" : "card",
             "icon" : "folder_open",
             "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "gridview",
+            "icon" : "grid_on",
+            "texto" : "GridViews"
+        },
+        {
+            "ruta": "switches",
+            "icon": "check_box",
+            "texto": "Switches and Checkboxes"
+        },
+        {
+            "ruta": "tab",
+            "icon": "tab",
+            "texto": "Tabs"
         }
     ]
 }

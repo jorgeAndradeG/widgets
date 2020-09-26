@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
     );
   }
 
-  List<Widget> _crearLista(Data data, BuildContext context) {
+  /* List<Widget> _crearLista(Data data, BuildContext context) {
     final List<Widget> items = [];
     data.rutas.forEach((item) {
       final widgetTemp = ListTile(
@@ -47,5 +47,5 @@ class HomeScreen extends StatelessWidget {
       items.add(widgetTemp);
     });
     return items;
-  }
+  }*/
 }
